@@ -1,0 +1,16 @@
+location_id,region,latitude,longitude,road_type
+L1,North,34.0522,-118.2437,Highway
+L2,North,37.7749,-122.4194,Urban
+L3,North,33.749,-84.388,Urban
+L4,North,39.9526,-75.1652,Rural
+L5,South,30.2672,-97.7431,Highway
+L6,South,29.7604,-95.3698,Urban
+L7,South,28.5384,-81.3792,Urban
+L8,South,32.7157,-117.1611,Rural
+L9,East,40.7128,-74.006,Highway
+L10,East,35.0844,-85.3097,Urban
+L11,East,36.1699,-86.7816,Urban
+L12,West,34.0522,-117.2437,Rural
+L13,West,37.3355,-121.8855,Highway
+L14,West,38.2527,-122.0312,Urban
+L15,West,36.7783,-119.4179,Rural
